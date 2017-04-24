@@ -6,7 +6,7 @@
 
 Мы, Никита и Рафаэль, участвовали в номинации Сбертеха, придумав интересное применение картам в приложении Сбербанка — можно переводить друг другу и компаниям средства с помощью своей геометки.
 
-## [Демо](
+## [Демо](http://www.youtube.com/watch?v=5ykloUxKT74)
 [![Демо на ютюбе](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/demo.png)](http://www.youtube.com/watch?v=5ykloUxKT74 "Прототип приложения для Сбербанка на хакатоне Angelhack 2017 Иннополис")
 
 ### Кейс 1
@@ -36,11 +36,17 @@
 * Demo.mov — демо взаимодействия Клиента с Бизнесом и Клиента с Клиентом в хорошем качестве
 * misc/ — файлы для описания
 
-### Клиент от [Рафаэля](http://t.me/SintahFeel)
+### Клиент
 * *Client App.framer* — Framer-файл
 * *Client App Screens.sketch* — использованный Sketch-файл, если захотите поиграться с Framer
 * Client App.mov — демо клиентского приложения
 
-### Бизнес от [Никиты](http://t.me/NikitaShekhov)
+### Бизнес
 * *Business App.prd* — Principle-файл
 * Business App.mov — демо приложения для бизнеса
+
+## Авторы и использование
+* [Никита](http://t.me/NikitaShekhov) — дизайн UI/UX, прототип Бизнеса
+* [Рафаэль](http://t.me/SintahFeel) — прототип Клиента
+
+Все файлы свободно могут быть использованы и изменены по вашему желанию согласно [лицензии MIT](https://github.com/nikitashekhov/angelhack2017-sberbankapp/blob/master/LICENSE).
