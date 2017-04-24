@@ -1,0 +1,1628 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["Screens@2x/layers.json.js"] = [
+	{
+		"objectId": "D197644D-78B1-4717-ABC0-7834394D5E98",
+		"kind": "artboard",
+		"name": "Main",
+		"originalName": "Main",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": -537,
+			"y": -1166,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Main-rde5nzy0.png",
+			"frame": {
+				"x": -537,
+				"y": -1166,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "E4A8B1F2-D41E-4A5D-A4BB-5D7C34188EDD",
+				"kind": "group",
+				"name": "Cards",
+				"originalName": "Cards",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 240,
+					"width": 375,
+					"height": 272
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Cards-rtrboeix.png",
+					"frame": {
+						"x": 0,
+						"y": 240,
+						"width": 375,
+						"height": 272
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "8002194A-49A2-4FD1-81B2-FE6BE2047543",
+		"kind": "artboard",
+		"name": "Company_Main",
+		"originalName": "Company Main",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": -413,
+			"y": 1280,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Company_Main-odawmje5.png",
+			"frame": {
+				"x": -413,
+				"y": 1280,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "867DCD95-7D33-425F-9B1B-560FAE04CB3A",
+				"kind": "group",
+				"name": "Accounts",
+				"originalName": "Accounts",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 248
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Accounts-ody3rene.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 248
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "11F2ACA6-670D-47EA-8602-39DB03B216E5",
+		"kind": "artboard",
+		"name": "Company_PayMap",
+		"originalName": "Company PayMap",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 51,
+			"y": 1280,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Company_PayMap-mtfgmkfd.png",
+			"frame": {
+				"x": 51,
+				"y": 1280,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "E0BE5E95-D1DB-4E8E-ACCE-F3DF2A343129",
+				"kind": "group",
+				"name": "Controls",
+				"originalName": "Controls",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 309,
+					"y": 288,
+					"width": 48,
+					"height": 307
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Controls-rtbcrtvf.png",
+					"frame": {
+						"x": 309,
+						"y": 288,
+						"width": 48,
+						"height": 307
+					}
+				},
+				"children": [
+					{
+						"objectId": "0F918BA9-A3E3-4261-8BCA-58EE0C4F755A",
+						"kind": "group",
+						"name": "MapControls",
+						"originalName": "MapControls",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 309,
+							"y": 288,
+							"width": 48,
+							"height": 100
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-MapControls-mey5mthc.png",
+							"frame": {
+								"x": 309,
+								"y": 288,
+								"width": 48,
+								"height": 100
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "57E47E6F-2BE4-40F7-80C9-8512BC9DD471",
+				"kind": "group",
+				"name": "People",
+				"originalName": "People",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 307,
+					"width": 375,
+					"height": 360
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-People-ntdfnddf.png",
+					"frame": {
+						"x": 0,
+						"y": 307,
+						"width": 375,
+						"height": 360
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "3E2F31D5-AB85-4B4B-80E7-0E77E0C29A46",
+		"kind": "artboard",
+		"name": "Company_Intro",
+		"originalName": "Company Intro",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": -878,
+			"y": 1280,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(45.000000000000014, 201, 101.00000000000001, 1)",
+		"children": [
+			{
+				"objectId": "8FF16164-57C4-41A6-944F-906E025BD107",
+				"kind": "group",
+				"name": "Stacked_Group",
+				"originalName": "Stacked Group",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 66,
+					"y": 250,
+					"width": 242,
+					"height": 173
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "D7CED67A-BD4D-4623-8042-9977ACD4AC1C",
+						"kind": "group",
+						"name": "Sberlogo",
+						"originalName": "Sberlogo",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 66,
+							"y": 250,
+							"width": 242,
+							"height": 61
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "42AAC735-5FFD-45CC-BED5-9DE7C881129E",
+								"kind": "group",
+								"name": "_1",
+								"originalName": "Слой_1",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 66,
+									"y": 250,
+									"width": 242,
+									"height": 61
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-_1-ndjbqum3.png",
+									"frame": {
+										"x": 66,
+										"y": 250,
+										"width": 242,
+										"height": 61
+									}
+								},
+								"children": [
+									{
+										"objectId": "4C0501EE-B23E-437B-836C-83FE34C6AA79",
+										"kind": "group",
+										"name": "Group",
+										"originalName": "Group",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 228,
+											"y": 297,
+											"width": 80,
+											"height": 14
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-Group-nemwntax.png",
+											"frame": {
+												"x": 228,
+												"y": 297,
+												"width": 80,
+												"height": 14
+											}
+										},
+										"children": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"objectId": "C918B2E7-6093-467C-8370-6A43C8824E37",
+						"kind": "group",
+						"name": "Stacked_Group1",
+						"originalName": "Stacked Group",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 93,
+							"y": 348,
+							"width": 183,
+							"height": 75
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Stacked_Group-qzkxoeiy.png",
+							"frame": {
+								"x": 93,
+								"y": 348,
+								"width": 183,
+								"height": 75
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"objectId": "521DB319-E525-4598-B8D4-EAE7FA90C429",
+		"kind": "artboard",
+		"name": "History",
+		"originalName": "History",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": -73,
+			"y": -1166,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-History-ntixreiz.png",
+			"frame": {
+				"x": -73,
+				"y": -1166,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "D2A3EED3-0D55-459B-9290-11A19C44C27C",
+				"kind": "group",
+				"name": "Operations",
+				"originalName": "Operations",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 145,
+					"width": 375,
+					"height": 628
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "9DAF7831-BABA-468F-8D74-C065E32F10CB",
+						"kind": "group",
+						"name": "Today",
+						"originalName": "Today",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 146,
+							"width": 375,
+							"height": 421
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Today-ourbrjc4.png",
+							"frame": {
+								"x": 0,
+								"y": 146,
+								"width": 375,
+								"height": 421
+							}
+						},
+						"children": [
+							{
+								"objectId": "208F8F9D-F145-4D10-A2CD-69DC5E14A456",
+								"kind": "group",
+								"name": "get750",
+								"originalName": "get750",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 0,
+									"y": 448,
+									"width": 375,
+									"height": 119
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-get750-mja4rjhg.png",
+									"frame": {
+										"x": 0,
+										"y": 448,
+										"width": 375,
+										"height": 119
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "0D0416D4-2F47-463E-90FC-8E0FE21B024B",
+								"kind": "group",
+								"name": "pay135",
+								"originalName": "pay135",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 0,
+									"y": 329,
+									"width": 375,
+									"height": 119
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-pay135-meqwnde2.png",
+									"frame": {
+										"x": 0,
+										"y": 329,
+										"width": 375,
+										"height": 119
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "6A6ADD94-8B71-46ED-9A11-1CBB3549FE8E",
+								"kind": "group",
+								"name": "pay1500",
+								"originalName": "pay1500",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 0,
+									"y": 210,
+									"width": 375,
+									"height": 119
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-pay1500-nke2qure.png",
+									"frame": {
+										"x": 0,
+										"y": 210,
+										"width": 375,
+										"height": 119
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "87D0F498-18E6-48A1-B0AB-402AB36D1317",
+						"kind": "group",
+						"name": "DaysAgo",
+						"originalName": "DaysAgo",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 471,
+							"width": 375,
+							"height": 302
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-DaysAgo-oddemey0.png",
+							"frame": {
+								"x": 0,
+								"y": 471,
+								"width": 375,
+								"height": 302
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "C50910F8-64F7-481B-9DEB-4510FD0FED2C",
+						"kind": "group",
+						"name": "Yesterday",
+						"originalName": "Yesterday",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 145,
+							"width": 375,
+							"height": 302
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Yesterday-qzuwotew.png",
+							"frame": {
+								"x": 0,
+								"y": 145,
+								"width": 375,
+								"height": 302
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"objectId": "AE4649B8-B64F-4AE7-9B88-1D9E3D770605",
+		"kind": "artboard",
+		"name": "Payment",
+		"originalName": "Payment",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 1433,
+			"y": -1166,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Payment-quu0njq5.png",
+			"frame": {
+				"x": 1433,
+				"y": -1166,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "539F98E4-1CCF-4893-8C40-AE2D29F9644F",
+				"kind": "group",
+				"name": "Account",
+				"originalName": "Account",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Account-ntm5rjk4.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 156
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "2D2A6574-20EF-4D6D-B4AF-14258E19B05A",
+		"kind": "artboard",
+		"name": "Inquire",
+		"originalName": "Inquire",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 970,
+			"y": -400,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Inquire-mkqyqty1.png",
+			"frame": {
+				"x": 970,
+				"y": -400,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "78C3703A-1D7F-4C86-AEE7-11631DD86D15",
+				"kind": "group",
+				"name": "Account1",
+				"originalName": "Account",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Account-nzhdmzcw.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 156
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "6B1D3654-56DC-4983-B89B-E03A8B6D6EFB",
+		"kind": "artboard",
+		"name": "Company_Inquire",
+		"originalName": "Company Inquire",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 495,
+			"y": 1280,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Company_Inquire-nkixrdm2.png",
+			"frame": {
+				"x": 495,
+				"y": 1280,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "90294E42-C894-4051-8717-07D6246308D9",
+				"kind": "group",
+				"name": "Account2",
+				"originalName": "Account",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Account-otayotrf.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 156
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "D4CDFD02-5F57-446C-8572-8189743DEBF0",
+		"kind": "artboard",
+		"name": "Inquire_Modal",
+		"originalName": "Inquire Modal",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 1433,
+			"y": -400,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Inquire_Modal-rdrdreze.png",
+			"frame": {
+				"x": 1433,
+				"y": -400,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "3B8C6A8E-FEBD-469F-9B46-2840D000A6A6",
+				"kind": "group",
+				"name": "Modal",
+				"originalName": "Modal",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 375,
+					"height": 667
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Modal-m0i4qzzb.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 375,
+						"height": 667
+					}
+				},
+				"children": [
+					{
+						"objectId": "105AB5BF-F80A-44B3-8912-DDDF81234B66",
+						"kind": "group",
+						"name": "rej",
+						"originalName": "rej",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 23,
+							"y": 215,
+							"width": 330,
+							"height": 241
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-rej-mta1qui1.png",
+							"frame": {
+								"x": 23,
+								"y": 215,
+								"width": 330,
+								"height": 241
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "8112FB7F-EAF8-43FC-848E-639EE43B606B",
+						"kind": "group",
+						"name": "succ",
+						"originalName": "succ",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 23,
+							"y": 215,
+							"width": 330,
+							"height": 241
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-succ-odexmkzc.png",
+							"frame": {
+								"x": 23,
+								"y": 215,
+								"width": 330,
+								"height": 241
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "8801BC7F-7CB1-4F40-92B5-8E7A0107AF06",
+				"kind": "group",
+				"name": "Cards1",
+				"originalName": "Cards",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Cards-odgwmujd.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 156
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "81C8B546-0D17-4397-B737-D65D16E7B5CB",
+		"kind": "artboard",
+		"name": "Company_Inquire_Modal",
+		"originalName": "Company Inquire Modal",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 958,
+			"y": 1280,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Company_Inquire_Modal-odfdoei1.png",
+			"frame": {
+				"x": 958,
+				"y": 1280,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "DCB01EC8-F9F9-456A-9DDF-2F8D4CFAA155",
+				"kind": "group",
+				"name": "Modal1",
+				"originalName": "Modal",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 375,
+					"height": 667
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Modal-rencmdff.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 375,
+						"height": 667
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "4EE81421-3AB5-40E5-83D1-46907C47D052",
+				"kind": "group",
+				"name": "Account3",
+				"originalName": "Account",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Account-nevfode0.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 156
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "8C6056ED-CF59-4923-B948-7E5B9FECCE2A",
+		"kind": "artboard",
+		"name": "Payment_Company",
+		"originalName": "Payment Company",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 1433,
+			"y": 440,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Payment_Company-oem2mdu2.png",
+			"frame": {
+				"x": 1433,
+				"y": 440,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "11442B81-5826-4AA3-A3FE-D177844221A7",
+				"kind": "group",
+				"name": "Cards2",
+				"originalName": "Cards",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 176,
+					"width": 375,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Cards-mte0ndjc.png",
+					"frame": {
+						"x": 0,
+						"y": 176,
+						"width": 375,
+						"height": 156
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "B29431DA-A1EA-43D1-957C-2D16B9980C6A",
+		"kind": "artboard",
+		"name": "PayMap",
+		"originalName": "PayMap",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 490,
+			"y": -1166,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-PayMap-qji5ndmx.png",
+			"frame": {
+				"x": 490,
+				"y": -1166,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "4448AD5A-C759-4375-BBF4-0FEC1CE13C3A",
+				"kind": "group",
+				"name": "Controls1",
+				"originalName": "Controls",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 18,
+					"y": 288,
+					"width": 339,
+					"height": 307
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Controls-ndq0oefe.png",
+					"frame": {
+						"x": 18,
+						"y": 288,
+						"width": 339,
+						"height": 307
+					}
+				},
+				"children": [
+					{
+						"objectId": "B7CFFA33-E0D8-4A34-8473-E8159A80552C",
+						"kind": "group",
+						"name": "MapControls1",
+						"originalName": "MapControls",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 309,
+							"y": 288,
+							"width": 48,
+							"height": 100
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-MapControls-qjddrkzb.png",
+							"frame": {
+								"x": 309,
+								"y": 288,
+								"width": 48,
+								"height": 100
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "D02726C7-0F8A-4F34-B20D-E2330C2A88A2",
+				"kind": "group",
+				"name": "Rafael",
+				"originalName": "Rafael",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 186,
+					"y": 307,
+					"width": 58,
+					"height": 58
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Rafael-rdaynzi2.png",
+					"frame": {
+						"x": 186,
+						"y": 307,
+						"width": 58,
+						"height": 58
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "03B61950-E6F1-4EF9-A4B7-4A899EB6E773",
+				"kind": "group",
+				"name": "PayMapPeople",
+				"originalName": "PayMapPeople",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -163,
+					"y": 64,
+					"width": 700,
+					"height": 632
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-PayMapPeople-mdncnje5.png",
+					"frame": {
+						"x": -163,
+						"y": 64,
+						"width": 700,
+						"height": 632
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "20A7F93B-C4C6-4F1D-B1D9-2AA4758B8746",
+		"kind": "artboard",
+		"name": "PayMap_Company",
+		"originalName": "PayMap Company",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 490,
+			"y": 440,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-PayMap_Company-mjbbn0y5.png",
+			"frame": {
+				"x": 490,
+				"y": 440,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "4B00D818-63A3-455B-ADC0-BCD9C3A4B27B",
+				"kind": "group",
+				"name": "Controls2",
+				"originalName": "Controls",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 18,
+					"y": 288,
+					"width": 339,
+					"height": 307
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Controls-neiwmeq4.png",
+					"frame": {
+						"x": 18,
+						"y": 288,
+						"width": 339,
+						"height": 307
+					}
+				},
+				"children": [
+					{
+						"objectId": "65BD7CC8-0BF8-49D5-B121-D6EAD6A507D5",
+						"kind": "group",
+						"name": "MapControls2",
+						"originalName": "MapControls",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 309,
+							"y": 288,
+							"width": 48,
+							"height": 100
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-MapControls-njvcrddd.png",
+							"frame": {
+								"x": 309,
+								"y": 288,
+								"width": 48,
+								"height": 100
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "0A353AA1-3776-455A-A830-EA570227421A",
+				"kind": "group",
+				"name": "PayPlease",
+				"originalName": "PayPlease",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 186,
+					"y": 307,
+					"width": 58,
+					"height": 58
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-PayPlease-meezntnb.png",
+					"frame": {
+						"x": 186,
+						"y": 307,
+						"width": 58,
+						"height": 58
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "4DDDFF50-70AA-4CB3-A64E-2E07F90CE45E",
+				"kind": "group",
+				"name": "People1",
+				"originalName": "People",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -163,
+					"y": 64,
+					"width": 700,
+					"height": 632
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-People-nererezg.png",
+					"frame": {
+						"x": -163,
+						"y": 64,
+						"width": 700,
+						"height": 632
+					}
+				},
+				"children": []
+			}
+		]
+	},
+	{
+		"objectId": "F8B3E6EC-3362-4F5B-A664-B8B448CE283B",
+		"kind": "artboard",
+		"name": "Notification",
+		"originalName": "Notification",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 970,
+			"y": -1166,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"children": [
+			{
+				"objectId": "2ECA0125-833A-4C68-83F5-8B48AF2DD483",
+				"kind": "group",
+				"name": "Modal2",
+				"originalName": "Modal",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 375,
+					"height": 667
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Modal-mkvdqtax.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 375,
+						"height": 667
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "D8C5D4B5-3530-4D4A-840E-37AEB15D6986",
+				"kind": "group",
+				"name": "Window",
+				"originalName": "Window",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -163,
+					"y": 0,
+					"width": 700,
+					"height": 696
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Window-rdhdnuq0.png",
+					"frame": {
+						"x": -163,
+						"y": 0,
+						"width": 700,
+						"height": 696
+					}
+				},
+				"children": [
+					{
+						"objectId": "31021088-1D54-46AE-A0DD-8FE6667CDAC8",
+						"kind": "group",
+						"name": "Controls3",
+						"originalName": "Controls",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 18,
+							"y": 288,
+							"width": 339,
+							"height": 307
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Controls-mzewmjew.png",
+							"frame": {
+								"x": 18,
+								"y": 288,
+								"width": 339,
+								"height": 307
+							}
+						},
+						"children": [
+							{
+								"objectId": "21B9FCA6-9DE3-4C9F-8836-0DD4E36C7098",
+								"kind": "group",
+								"name": "MapControls3",
+								"originalName": "MapControls",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 309,
+									"y": 288,
+									"width": 48,
+									"height": 100
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-MapControls-mjfcouzd.png",
+									"frame": {
+										"x": 309,
+										"y": 288,
+										"width": 48,
+										"height": 100
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "251DC6A6-A34E-4E99-AD2F-59CF4CD5E275",
+						"kind": "group",
+						"name": "People2",
+						"originalName": "People",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 162,
+							"y": 307,
+							"width": 82,
+							"height": 111
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-People-mjuxrem2.png",
+							"frame": {
+								"x": 162,
+								"y": 307,
+								"width": 82,
+								"height": 111
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"objectId": "5C1B737A-941E-410C-AE9C-4586D49C26F7",
+		"kind": "artboard",
+		"name": "Notification_Company",
+		"originalName": "Notification Company",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 970,
+			"y": 440,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"children": [
+			{
+				"objectId": "CBB60A89-B12E-48A8-9821-E2F7A2E2226B",
+				"kind": "group",
+				"name": "Modal3",
+				"originalName": "Modal",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 375,
+					"height": 667
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Modal-q0jcnjbb.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 375,
+						"height": 667
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "6549B17A-819B-4346-B4DC-F738743A517D",
+				"kind": "group",
+				"name": "Window1",
+				"originalName": "Window",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -163,
+					"y": 0,
+					"width": 700,
+					"height": 696
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Window-nju0ouix.png",
+					"frame": {
+						"x": -163,
+						"y": 0,
+						"width": 700,
+						"height": 696
+					}
+				},
+				"children": [
+					{
+						"objectId": "56C1E1F6-90C3-4980-AB8C-9C86FFE155A2",
+						"kind": "group",
+						"name": "Controls4",
+						"originalName": "Controls",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 18,
+							"y": 288,
+							"width": 339,
+							"height": 307
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Controls-ntzdmuux.png",
+							"frame": {
+								"x": 18,
+								"y": 288,
+								"width": 339,
+								"height": 307
+							}
+						},
+						"children": [
+							{
+								"objectId": "1B0839D9-48B2-4581-9D31-2AA587ACB3FB",
+								"kind": "group",
+								"name": "MapControls4",
+								"originalName": "MapControls",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 309,
+									"y": 288,
+									"width": 48,
+									"height": 100
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-MapControls-muiwodm5.png",
+									"frame": {
+										"x": 309,
+										"y": 288,
+										"width": 48,
+										"height": 100
+									}
+								},
+								"children": []
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"objectId": "F76F4DB3-FF35-4D4C-8B70-46B735057C13",
+		"kind": "artboard",
+		"name": "Company_History",
+		"originalName": "Company History",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 1433,
+			"y": 1280,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(243, 244, 245, 1)",
+		"image": {
+			"path": "images/Layer-Company_History-rjc2rjre.png",
+			"frame": {
+				"x": 1433,
+				"y": 1280,
+				"width": 375,
+				"height": 667
+			}
+		},
+		"children": [
+			{
+				"objectId": "B546389B-6EA9-417F-B7A6-94913328D97B",
+				"kind": "group",
+				"name": "Operations1",
+				"originalName": "Operations",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 146,
+					"width": 375,
+					"height": 183
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "F76A48AA-1E5B-46DA-9192-663EA2C9B189",
+						"kind": "group",
+						"name": "Today1",
+						"originalName": "Today",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 146,
+							"width": 375,
+							"height": 183
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Today-rjc2qtq4.png",
+							"frame": {
+								"x": 0,
+								"y": 146,
+								"width": 375,
+								"height": 183
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]
