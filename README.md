@@ -7,7 +7,7 @@
 Мы, Никита и Рафаэль, участвовали в номинации Сбертеха, придумав интересное применение картам в приложении Сбербанка — можно переводить друг другу и компаниям средства с помощью своей геометки.
 
 ## Демо
-[![Демо на ютюбе](http://img.youtube.com/vi/5ykloUxKT74/0.jpg)](http://www.youtube.com/watch?v=5ykloUxKT74 "Прототип приложения для Сбербанка на хакатоне Angelhack 2017 Иннополис")
+[![Демо на ютюбе](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/demo.png)](http://www.youtube.com/watch?v=5ykloUxKT74 "Прототип приложения для Сбербанка на хакатоне Angelhack 2017 Иннополис")
 
 ### Кейс 1
 Друг возвращает вам деньги. Встречаетесь и достаете приложения, ваши геометки появляются на карте, вы запрашиваете нужную сумму — друг переводит.
@@ -18,16 +18,15 @@
 ### Кейс 3
 Вы возвращаете другу деньги. Встречаетесь и достаете приложения, ваши геометки появляются на карте, друг запрашиваете нужную сумму — вы переводите или отказываетесь.
 
+## Зависимости
 ![Зависимости](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/dependencies.png)
 
-## Зависимости
 * [Sketch 43](http://sketchapp.com) для интерфейса, [плагин Auto Layout](https://animaapp.github.io/Auto-Layout/) и шрифты [знака рубля](https://www.paratype.ru/store/free/ptrouble.zip) и [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto).
 * [Framer](https://framer.com/) версии 88 для прототипа Клиента.
 * [Principle](http://principleformac.com/) для прототипа Бизнеса.
 
-![Приложения](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/apps.png)
-
 ## Репозиторий
+![Приложения](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/apps.png)
 
 ### Структура
 
