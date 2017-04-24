@@ -1,6 +1,6 @@
 # Прототип приложения для Сбербанка
 
-![PayMaps](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/PayMaps%20for%20Sberbank.png)
+![PayMaps](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/hero.png)
 
 22-23 апреля в г. Иннополис, Республика Татарстан, проходил хакатон [AngelHack](http://angelhack.io/).
 
@@ -18,10 +18,14 @@
 ### Кейс 3
 Вы возвращаете другу деньги. Встречаетесь и достаете приложения, ваши геометки появляются на карте, друг запрашиваете нужную сумму — вы переводите или отказываетесь.
 
+![Зависимости](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/dependencies.png)
+
 ## Зависимости
 * [Sketch 43](http://sketchapp.com) для интерфейса, [плагин Auto Layout](https://animaapp.github.io/Auto-Layout/) и шрифты [знака рубля](https://www.paratype.ru/store/free/ptrouble.zip) и [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto).
 * [Framer](https://framer.com/) версии 88 для прототипа Клиента.
 * [Principle](http://principleformac.com/) для прототипа Бизнеса.
+
+![Приложения](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/apps.png)
 
 ## Репозиторий
 
@@ -31,6 +35,7 @@
 * *Business App/* — приложение для бизнеса
 * *Prototype.sketch* — интерфейс в Sketch
 * Demo.mov — демо взаимодействия Клиента с Бизнесом и Клиента с Клиентом в хорошем качестве
+* misc/ — файлы для описания
 
 ### Клиент от [Рафаэля](http://t.me/SintahFeel)
 * *Client App.framer* — Framer-файл
