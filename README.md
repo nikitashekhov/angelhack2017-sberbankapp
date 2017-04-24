@@ -18,7 +18,7 @@
 ### Кейс 3
 Вы возвращаете другу деньги. Встречаетесь и достаете приложения, ваши геометки появляются на карте, друг запрашиваете нужную сумму — вы переводите или отказываетесь.
 
-## Зависимости
+## Использованные приложения
 ![Зависимости](https://github.com/nikitashekhov/angelhack2017-sberbankapp/raw/master/misc/dependencies.png)
 
 * [Sketch 43](http://sketchapp.com) для интерфейса, [плагин Auto Layout](https://animaapp.github.io/Auto-Layout/) и шрифты [знака рубля](https://www.paratype.ru/store/free/ptrouble.zip) и [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto).
